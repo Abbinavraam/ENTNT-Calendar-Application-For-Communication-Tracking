@@ -29,7 +29,7 @@ Follow these steps to set up the application locally:
    Clone the repository or download the ZIP file:
    ```bash
    git clone https://github.com/saiprakash0506/Calendar-Application-for-Communication-Tracking-ENTNT
-   cd Calendar-Application-for-Communication-Tracking-master
+   cd Calendar-App
 
 2. **Install dependencies**
    ```bash
