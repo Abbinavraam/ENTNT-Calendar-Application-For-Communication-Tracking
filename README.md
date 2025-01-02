@@ -48,8 +48,7 @@ This application is designed to help organizations efficiently track communicati
 
 ### Steps to Run Locally
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Abbinavraam/ENTNT-Calendar-Application-For-Communication-Tracking
+   https://github.com/Abbinavraam/ENTNT-Calendar-Application-For-Communication-Tracking
    
 2.Navigate to the project directory:
   cd Calendar-App
