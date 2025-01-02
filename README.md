@@ -49,10 +49,10 @@ This application is designed to help organizations efficiently track communicati
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calendar-communication-tracker.git
+   git clone https://github.com/Abbinavraam/ENTNT-Calendar-Application-For-Communication-Tracking
    
 2.Navigate to the project directory:
-  cd calendar-communication-tracker
+  cd Calendar-App
 
 3.Install Dependencies
   npm install
