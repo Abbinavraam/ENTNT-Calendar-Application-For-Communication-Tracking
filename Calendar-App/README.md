@@ -28,7 +28,7 @@ Follow these steps to set up the application locally:
 1. **Download the repository**
    Clone the repository or download the ZIP file:
    ```bash
-   git clone https://github.com/saiprakash0506/Calendar-Application-for-Communication-Tracking-ENTNT
+   git clone: https://github.com/Abbinavraam/ENTNT-Calendar-Application-For-Communication-Tracking
    cd Calendar-App
 
 2. **Install dependencies**
